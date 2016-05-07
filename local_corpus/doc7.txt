@@ -1,0 +1,1 @@
+Various supervised learning algorithms in machine learning are linear regression , logistic regression , artificial neural network , decision trees random forests , boosting predictors etc .
